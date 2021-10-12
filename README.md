@@ -72,10 +72,10 @@
     </p>
     <br/>
     <p>
-     <div>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />
-     </div>
+     |  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" /> |  |  <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" /> |
+    
+     
+     
     </p>
     <br/>
 
