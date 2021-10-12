@@ -71,12 +71,12 @@
       </a> 
     </p>
     <br/>
-    <p>
-     |  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" /> |  |  <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" /> |
+  
+     |![](https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact) |  |![](https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact)|
     
      
      
-    </p>
-    <br/>
+
+
 
 
