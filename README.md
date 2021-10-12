@@ -72,7 +72,7 @@
     </p>
     <br/>
   
-     |![](https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact) |  |![](https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact)|
+     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />
     
      
      
