@@ -72,7 +72,8 @@
     </p>
     <br/>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />
+      <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" /> -->
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusMoraes)](https://github.com/anuraghazra/github-readme-stats)
     </p>
     <br/>
     <p>&nbsp;
