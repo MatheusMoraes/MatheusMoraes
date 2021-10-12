@@ -73,8 +73,7 @@
     <br/>
     <p>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en" alt="matheusmoraes" />
-
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" />
     </p>
     <br/>
 
