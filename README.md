@@ -72,11 +72,12 @@
     </p>
     <br/>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusmoraes" alt="stats />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en&layout=github_dark" alt="matheusmoraes" />
+
     </p>
     <br/>
     <p>&nbsp;
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=ptbr&theme=radical" alt="matheusmoraes" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en" alt="matheusmoraes" />
     </p>
 
 
