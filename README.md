@@ -8,9 +8,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MatheusMoraes](https://github.com/MatheusMoraes)
 
-- 📫 Chega mais **matheussilva201654@gmail.com**
+- 📫 Chega mais: **matheussilva201654@gmail.com**
 
-- ⚡ Curiosidade **Arroz por cima do feijão.**
+- ⚡ Curiosidade: **Arroz por cima do feijão.**
 
 
   <h3 align="left">Linguagens e Ferramentas:</h3>
