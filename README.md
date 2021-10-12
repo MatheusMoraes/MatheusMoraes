@@ -72,12 +72,11 @@
     </p>
     <br/>
     <p>
-     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusmoraes)](https://github.com/anuraghazra/github-readme-stats)
-
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusmoraes" alt="stats />
     </p>
     <br/>
     <p>&nbsp;
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en" alt="matheusmoraes" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=ptbr&theme=radical" alt="matheusmoraes" />
     </p>
 
 
