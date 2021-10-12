@@ -72,7 +72,7 @@
     </p>
     <br/>
     <p float="left">
-     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en" alt="matheusmoraes" height="100%"/>  
+     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmoraes&show_icons=true&locale=en" alt="matheusmoraes" height="50%"/>  
      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=matheusmoraes&show_icons=true&locale=en&layout=compact" alt="matheusmoraes" height="100%"/>
     </p>
      
