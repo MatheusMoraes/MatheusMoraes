@@ -2,10 +2,10 @@
 <h1 align="center">Eai 👋, eu sou o Matheus.</h1>
 <h3 align="center">Um Jedi em treinamento 🤖.</h3>
 
-- 🔭 Atualmente estou mexendo com: [Clone Netflix](https://github.com/MatheusMoraes/CloneNetflix)
+- 🔭 Atualmente estou mexendo com: [Curso Python](https://github.com/MatheusMoraes/CursoPY)
 
-- 🌱 Atualmente estudo **Typescript, React, C#, Asp.Net Core**
-
+- 🌱 Atuo com **C#, Asp.Net Core, Python, AWS, React**
+- 👨‍💻 Linkedin: https://www.linkedin.com/in/matheus-moraes-silva
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MatheusMoraes](https://github.com/MatheusMoraes)
 
 - 📫 Chega mais: **matheussilva201654@gmail.com**
