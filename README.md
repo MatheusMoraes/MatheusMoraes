@@ -2,8 +2,6 @@
 <h1 align="center">Eai 👋, eu sou o Matheus.</h1>
 <h3 align="center">Um Jedi em treinamento 🤖.</h3>
 
-- 🔭 Atualmente estou mexendo com: [NLW - Python](https://github.com/MatheusMoraes/nlw-python)
-
 - 🌱 Atuo com **C#, Asp.Net Core, Python, AWS, React**
 - 👨‍💻 Linkedin: https://www.linkedin.com/in/matheus-moraes-silva
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MatheusMoraes](https://github.com/MatheusMoraes)
